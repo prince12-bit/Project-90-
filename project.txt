@@ -1,0 +1,7 @@
+Problem - Don't like waking up in the morning, get late to 
+tuitions and school. Let the alarm ring - ignore it3
+
+
+Solution - create an app which give task to do so if you complete the task then it will stop ringing
+
+:D
